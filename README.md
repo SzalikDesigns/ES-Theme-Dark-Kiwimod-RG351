@@ -2,6 +2,8 @@
 Dark ES-Theme with a more Adult-Like Look Based on ArkOS for the RG351P/M.
 The Base of this mod is Hursky`s SuperSweet Theme.
 
+The recommended Gamelist View Style is "Video"
+
 Supported Platforms:
 
 3do
