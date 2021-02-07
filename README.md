@@ -34,7 +34,7 @@ psp
 pspminis
 psx
 retroarch
-tetropie/options
+retropie/options
 scummvm
 sega32x
 segacd
